@@ -1,0 +1,70 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1c"/>
+      <stop offset="50%" stop-color="#0f2e2b"/>
+      <stop offset="100%" stop-color="#0a0f1c"/>
+    </linearGradient>
+    <radialGradient id="glowSpot" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="dotGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#2dd4bf" opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bgGrad)"/>
+  <rect width="1200" height="280" fill="url(#dotGrid)"/>
+  <rect width="1200" height="280" fill="url(#glowSpot)"/>
+
+  <!-- circuit traces -->
+  <g fill="none" stroke="#2dd4bf" stroke-width="1.4" opacity="0.55">
+    <path d="M0,40 H180 L210,70 H420">
+      <animate attributeName="stroke-dasharray" values="0,900;900,0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1200,220 H1010 L980,190 H760">
+      <animate attributeName="stroke-dasharray" values="0,900;900,0" dur="5.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M0,250 H140 L165,225 H320 L345,250 H520">
+      <animate attributeName="stroke-dasharray" values="0,900;900,0" dur="6s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1200,55 H1050 L1025,30 H880">
+      <animate attributeName="stroke-dasharray" values="0,900;900,0" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g fill="#2dd4bf" opacity="0.7">
+    <circle cx="420" cy="70" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="190" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="30" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.9s" repeatCount="indefinite"/></circle>
+    <circle cx="520" cy="250" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="128" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="56" font-weight="700" fill="#e6fffb" filter="url(#textGlow)" letter-spacing="4">
+    SHREYAS PATHAK
+  </text>
+
+  <!-- subtitle -->
+  <text x="600" y="168" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif"
+        font-size="19" fill="#5eead4" letter-spacing="1">
+    BCA Student &#8226; Building AI That Feels Human
+  </text>
+
+  <!-- terminal line -->
+  <text x="600" y="212" text-anchor="middle" font-family="'Fira Code', monospace" font-size="16" fill="#94a3b8">
+    &gt; shipping shiva-ai and saathi-ai while you read this
+  </text>
+  <rect x="878" y="200" width="10" height="18" fill="#2dd4bf">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
