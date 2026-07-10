@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:2dd4bf&height=260&section=header&text=SHREYAS%20PATHAK&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=BCA%20Student%20%E2%80%A2%20Building%20AI%20That%20Feels%20Human&descAlignY=52&descSize=19&descColor=5eead4" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=%F0%9F%A4%96+Building+Shiva+AI+%E2%80%94+full+control+of+my+laptop;%F0%9F%92%99+Building+Saathi+AI+%E2%80%94+a+friend+in+your+system;%F0%9F%90%8D+Python+%2B+JavaScript+%2B+SQL;%F0%9F%9A%80+Always+shipping+something+new" alt="Typing SVG" />
@@ -21,21 +21,7 @@
 
 <br/>
 
-```bash
-shreyas@delhi-ncr:~$ whoami
-> BCA student, building AI that actually lives in your machine
-
-shreyas@delhi-ncr:~$ cat currently_building.txt
-> shiva-ai   — JARVIS-style assistant, full laptop control
-> saathi-ai  — an AI presence, not a robot, just there for you
-
-shreyas@delhi-ncr:~$ echo $STATUS
-> 🟢 online, shipping, debugging at 2am
-```
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <br/>
 
@@ -66,7 +52,7 @@ const shreyas: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <br/>
 
@@ -120,7 +106,7 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <br/>
 
@@ -144,7 +130,7 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <br/>
 
@@ -193,17 +179,7 @@ flowchart LR
 
 <br/>
 
-### 🐍 Live Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pshreyas700-byte/pshreyas700-byte/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</p>
-
-> ⚙️ This animated snake eats your contribution graph in real time. It needs a one-time GitHub Action setup — instructions below.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 <br/>
 
@@ -224,6 +200,6 @@ flowchart LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:134e4a,100:0f172a&height=150&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
 
 </div>
