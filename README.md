@@ -21,6 +21,20 @@
 
 <br/>
 
+```bash
+shreyas@delhi-ncr:~$ whoami
+> BCA student, building AI that actually lives in your machine
+
+shreyas@delhi-ncr:~$ cat currently_building.txt
+> shiva-ai   — JARVIS-style assistant, full laptop control
+> saathi-ai  — an AI presence, not a robot, just there for you
+
+shreyas@delhi-ncr:~$ echo $STATUS
+> 🟢 online, shipping, debugging at 2am
+```
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
 
 <br/>
@@ -91,6 +105,21 @@ An AI companion that doesn't try to *look* human — it just lives quietly insid
 
 <br/>
 
+**How Shiva AI thinks:**
+
+```mermaid
+flowchart LR
+    A[🎤 Voice / Text Command] --> B{Shiva AI Core}
+    B --> C[🖥️ System Control]
+    B --> D[📂 File Operations]
+    B --> E[🌐 App Launch / Automation]
+    C --> F[(Laptop)]
+    D --> F
+    E --> F
+```
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2dd4bf,100:0f172a&height=3&width=100%25" width="100%"/>
 
 <br/>
@@ -121,22 +150,56 @@ An AI companion that doesn't try to *look* human — it just lives quietly insid
 
 ## `04` — GITHUB METRICS
 
+<details open>
+<summary><b>📊 Stats & Languages</b></summary>
+<br/>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pshreyas700-byte&show_icons=true&theme=tokyonight&border_color=2dd4bf&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&bg_color=0f172a&hide_border=false" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pshreyas700-byte&layout=compact&theme=tokyonight&border_color=2dd4bf&title_color=2dd4bf&text_color=c9d1d9&bg_color=0f172a" alt="Top Languages" height="165"/>
 </p>
 
+</details>
+
+<details open>
+<summary><b>🔥 Streak</b></summary>
+<br/>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pshreyas700-byte&theme=tokyonight&border=2dd4bf&background=0f172a&ring=2dd4bf&fire=2dd4bf&currStreakLabel=2dd4bf" alt="GitHub Streak"/>
 </p>
+
+</details>
+
+<details>
+<summary><b>🏆 Trophies</b></summary>
+<br/>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pshreyas700-byte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" alt="trophies"/>
 </p>
 
+</details>
+
+<details>
+<summary><b>📈 Activity Graph</b></summary>
+<br/>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pshreyas700-byte&theme=tokyo-night&bg_color=0f172a&color=2dd4bf&line=2dd4bf&point=ffffff&hide_border=true" alt="activity graph"/>
 </p>
+
+</details>
+
+<br/>
+
+### 🐍 Live Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pshreyas700-byte/pshreyas700-byte/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+</p>
+
+> ⚙️ This animated snake eats your contribution graph in real time. It needs a one-time GitHub Action setup — instructions below.
 
 <br/>
 
