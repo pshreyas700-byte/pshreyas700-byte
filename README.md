@@ -70,7 +70,7 @@ A voice/command-driven assistant built to take full control of your system — a
 
 `Python` `Node.js` `SQLite`
 
-<a href="https://github.com/pshreyas700-byte/shiva-ai"><img src="https://img.shields.io/badge/VIEW%20CODE-2dd4bf?style=for-the-badge&logo=github&logoColor=0f172a" alt="code"/></a>
+<a href="https://github.com/pshreyas700-byte/shiva-ai"><img src="C:\Users\patha\Downloads\shiva.jpeg" alt="code"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +83,7 @@ An AI companion that doesn't try to *look* human — it just lives quietly insid
 
 `Python` `Node.js` `SQLite`
 
-<a href="https://github.com/pshreyas700-byte/saathi-ai"><img src="https://img.shields.io/badge/VIEW%20CODE-2dd4bf?style=for-the-badge&logo=github&logoColor=0f172a" alt="code"/></a>
+<a href="https://github.com/pshreyas700-byte/saathi-ai"><img src="C:\Users\patha\Downloads\saathi.jpeg" alt="code"/></a>
 
 </td>
 </tr>
