@@ -66,7 +66,7 @@ const shreyas: Developer = {
 **Your laptop's own JARVIS.**
 A voice/command-driven assistant built to take full control of your system — automation, execution, and control, all in one AI layer.
 
-<img src="C:\Users\patha\Downloads\shiva.jpeg" alt="Shiva AI"/>
+<img src="https://github.com/pshreyas700-byte/pshreyas700-byte/blob/main/shiva.jpeg" alt="Shiva AI"/>
 
 `Python` `Node.js` `SQLite`
 
@@ -79,7 +79,7 @@ A voice/command-driven assistant built to take full control of your system — a
 **Not a robot. A presence.**
 An AI companion that doesn't try to *look* human — it just lives quietly inside your system, there when you need it.
 
-<img src="C:\Users\patha\Downloads\saathi.jpeg" alt="Saathi AI"/>
+<img src="https://github.com/pshreyas700-byte/pshreyas700-byte/blob/main/saathi.jpeg" alt="Saathi AI"/>
 
 `Python` `Node.js` `SQLite`
 
