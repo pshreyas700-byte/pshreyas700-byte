@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=650&lines=%F0%9F%A4%96+Building+Shiva+AI+%E2%80%94+full+control+of+my+laptop;%F0%9F%92%99+Building+Saathi+AI+%E2%80%94+a+friend+in+your+system;%F0%9F%90%8D+Python+%2B+JavaScript+%2B+SQL;%F0%9F%9A%80+Always+shipping+something+new" alt="Typing SVG" />
@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -52,7 +52,7 @@ const shreyas: Developer = {
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -106,7 +106,7 @@ flowchart LR
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -130,7 +130,7 @@ flowchart LR
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -200,6 +200,6 @@ flowchart LR
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 </div>
